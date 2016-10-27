@@ -42,4 +42,3 @@ For demo purposes, I consistently display the menu under the results so the user
 	* DepartmentName
 	* OverHeadCosts
 	* TotalSales
-
