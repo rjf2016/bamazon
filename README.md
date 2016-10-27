@@ -6,7 +6,9 @@
 In this homework assignment, I created a fictional online store called bamazon that is powered by node.js and MySQL.
 
 [Click here to see a working  Customer demo](https://youtu.be/8t88L6Xtd38)
+
 [Click here to see a working Manager demo](https://youtu.be/wi9SQ2i2sgk)
+
 [Click here to see a working Executive demo](https://youtu.be/J7qczcwahQM)
 
 For demo purposes, I consistently display the menu under the results so the user doesn't have to return to the command prompt
